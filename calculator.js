@@ -124,3 +124,5 @@ function mainMenu() {
         }
     }
 }
+// Lancer le menu principal
+mainMenu();
